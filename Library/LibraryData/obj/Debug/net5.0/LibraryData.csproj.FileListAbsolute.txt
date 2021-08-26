@@ -1,0 +1,15 @@
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\bin\Debug\net5.0\LibraryData.deps.json
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\bin\Debug\net5.0\LibraryData.runtimeconfig.json
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\bin\Debug\net5.0\LibraryData.runtimeconfig.dev.json
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\bin\Debug\net5.0\LibraryData.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\bin\Debug\net5.0\ref\LibraryData.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\bin\Debug\net5.0\LibraryData.pdb
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\LibraryData.csproj.AssemblyReference.cache
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\LibraryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\LibraryData.AssemblyInfo.cs
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\LibraryData.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\ref\LibraryData.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\LibraryData.pdb
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryData\obj\Debug\net5.0\LibraryData.genruntimeconfig.cache
