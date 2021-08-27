@@ -34,6 +34,7 @@
       "Library/1.0.0": {
         "dependencies": {
           "LibraryData": "1.0.0",
+          "LibraryServices": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.9",
           "Microsoft.EntityFrameworkCore.Design": "5.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9",
@@ -1327,6 +1328,17 @@
         },
         "compile": {
           "LibraryData.dll": {}
+        }
+      },
+      "LibraryServices/1.0.0": {
+        "dependencies": {
+          "LibraryData": "1.0.0"
+        },
+        "runtime": {
+          "LibraryServices.dll": {}
+        },
+        "compile": {
+          "LibraryServices.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3696,6 +3708,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "LibraryData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryServices/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

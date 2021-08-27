@@ -1,0 +1,15 @@
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\bin\Debug\net5.0\LibraryServices.deps.json
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\bin\Debug\net5.0\LibraryServices.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\bin\Debug\net5.0\ref\LibraryServices.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\bin\Debug\net5.0\LibraryServices.pdb
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\bin\Debug\net5.0\LibraryData.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\bin\Debug\net5.0\LibraryData.pdb
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\LibraryServices.csproj.AssemblyReference.cache
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\LibraryServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\LibraryServices.AssemblyInfo.cs
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\LibraryServices.csproj.CopyComplete
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\LibraryServices.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\ref\LibraryServices.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\LibraryServices\obj\Debug\net5.0\LibraryServices.pdb

@@ -72,3 +72,7 @@ C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\Library\bin\Debug\net5.0\Libra
 C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\Library\bin\Debug\net5.0\LibraryData.pdb
 C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\Library\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\Library\bin\Debug\net5.0\LibraryServices.dll
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\Library\bin\Debug\net5.0\LibraryServices.pdb
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\Library\obj\Debug\net5.0\Razor\Views\Catalog\index.cshtml.g.cs
+C:\Users\Alex Tsang\Desktop\LibrarySystem\Library\Library\obj\Debug\net5.0\Razor\Views\Catalog\Detail.cshtml.g.cs
